@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\project\\kojankojan\\kojankojan.csproj": {}
+    "C:\\Users\\user\\RiderProjects\\kojankojan\\kojankojan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\project\\kojankojan\\kojankojan.csproj": {
+    "C:\\Users\\user\\RiderProjects\\kojankojan\\kojankojan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\project\\kojankojan\\kojankojan.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\kojankojan\\kojankojan.csproj",
         "projectName": "kojankojan",
-        "projectPath": "C:\\Users\\user\\project\\kojankojan\\kojankojan.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\kojankojan\\kojankojan.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\project\\kojankojan\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\kojankojan\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
